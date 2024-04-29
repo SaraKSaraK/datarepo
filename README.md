@@ -17,6 +17,7 @@ The dataset used in this project is sourced from Kaggle.
 - pandas
 - Matplotlib
 - Jupyter Notebook
+- Postgres
 
 ## Folder Structure
 - `data/`: Contains raw and processed data files.
